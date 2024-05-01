@@ -4,7 +4,7 @@
     "qrcode": "^1.5.3",
     "yesno": "^0.4.0"
   },
-  "name": "qrcode-cli",
+  "name": "qrcode-cmd",
   "version": "1.0.0",
   "description": "A package to generate QR codes right in your terminal!",
   "main": "qr.js",
