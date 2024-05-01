@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "prompts": "^2.4.2",
+    "qrcode": "^1.5.3",
+    "yesno": "^0.4.0"
+  },
+  "name": "qrcode-cli",
+  "version": "1.0.0",
+  "description": "A package to generate QR codes right in your terminal!",
+  "main": "qr.js",
+  "bin": {
+    "qrcode-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qrcode",
+    "qr",
+    "cmd",
+    "shell",
+    "image"
+  ],
+  "author": "AFHStudio",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayans/qrcode-cmd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akshayans/qrcode-cmd/issues"
+  },
+  "homepage": "https://github.com/akshayans/qrcode-cmd#readme"
+}
