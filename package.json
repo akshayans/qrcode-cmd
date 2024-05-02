@@ -5,11 +5,11 @@
     "yesno": "^0.4.0"
   },
   "name": "qrcode-cmd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to generate QR codes right in your terminal!",
   "main": "qr.js",
   "bin": {
-    "qrcode-cli": "index.js"
+    "qrcode-cmd": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
